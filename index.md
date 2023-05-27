@@ -11,4 +11,4 @@ I am an Integrated PhD student at the Indian Institute of Science, Bangalore, In
 - **Biophysics**
 - **Condensed Matter Physics**
 
- {% include_relative _includes/publications.md %} 
+ {%include_relative _includes/publications.md %} 
