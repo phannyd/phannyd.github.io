@@ -7,7 +7,7 @@
 <div class="pub-row">
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-   <div class="title">[Lecture 1: Introduction to Tight-Binding and Second Quantization of Electrons](https://github.com/phannyd/phannyd.github.io/_content/CMP_Project_Lect_01.pdf)</div>
+   <div class="title">[Lecture 1: Introduction to Tight-Binding and Second Quantization of Electrons](https://phannyd.github.io/assets/CMP_Project_Lect_01.pdf)</div>
   </div>
 </div>
 </li>
