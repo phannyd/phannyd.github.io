@@ -12,6 +12,8 @@
   </div>
     <div class="title"><a href="{{ site.url }}/assets/files/CMP_Project_Lect_03.pdf">Lecture 3: Introduction to Su-Schrieffer-Heeger Model</a></div>
 </div>
+  <div class="title"><a href="{{ site.url }}/assets/files/CMP_Project_Lect_04.pdf">Lecture 4: SSH Model (continued) and Edge States</a></div>
+</div>
 
   
 <br>
