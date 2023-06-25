@@ -11,6 +11,11 @@
    <div class="title"><a href="{{ site.url }}/assets/files/CMP_Project_Lect_02.pdf">Lecture 2: Solution to Tight-Binding Hamiltonian</a></div>
    <div class="title"><a href="{{ site.url }}/assets/files/CMP_Project_Lect_03.pdf">Lecture 3: Introduction to Su-Schrieffer-Heeger Model</a></div>
    <div class="title"><a href="{{ site.url }}/assets/files/CMP_Project_Lect_04.pdf">Lecture 4: SSH Model (continued) and Edge States</a></div>
+   <div class="title"><a href="{{ site.url }}/assets/files/CMP_Project_Lect_05.pdf">Lecture 5: Special Lecture on Mesoscopic Transport (Conductance)</a></div>
+   <div class="title"><a href="{{ site.url }}/assets/files/CMP_Project_Lect_06.pdf">Lecture 6: Dirac Equation in Condensed Matter Systems</a></div>
+   <div class="title"><a href="{{ site.url }}/assets/files/CMP_Project_Lect_07.pdf">Lecture 7: Graphene</a></div>
+   <div class="title"><a href="{{ site.url }}/assets/files/CMP_Project_Lect_08.pdf">Lecture 8: Properties of Topological Insulators</a></div>
+   <div class="title"><a href="{{ site.url }}/assets/files/CMP_Project_Lect_09.pdf">Lecture 9: Some Analytical Calculations</a></div>
 </div>
 
   
