@@ -1,6 +1,6 @@
 ---
 title: Resources
-layout: template
+layout: homepage
 filename: resources.md
 --- 
 <h2 id="publications" style="margin: 2px 0px -15px;">Summer Project on Condensed Matter Physics (taught by Prof. Diptiman Sen)</h2>
