@@ -2,6 +2,7 @@
 layout: homepage
 ---
 
+<span style="font-family:Geneva;color:green;font-weight:700;font-size:20px"> 
 ## About Me
 
 I am an Integrated PhD student at the Indian Institute of Science, Bangalore, India.
@@ -12,3 +13,4 @@ I am an Integrated PhD student at the Indian Institute of Science, Bangalore, In
 - **Condensed Matter Physics**
 
  {%include_relative _includes/publications.md %} 
+</span>
