@@ -12,6 +12,8 @@ I am an Integrated PhD student at the Indian Institute of Science, Bangalore, In
 - **Biophysics**
 - **Condensed Matter Physics**
 
+</span>
+
 [Resources](https://phannyd.github.io/resources){: .btn}
 
-</span>
+
