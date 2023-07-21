@@ -13,3 +13,5 @@ I am an Integrated PhD student at the Indian Institute of Science, Bangalore, In
 - **Condensed Matter Physics**
 
 {% include button.html url="http://phannyd.github.io/resources" %}
+
+</span>
