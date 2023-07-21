@@ -12,6 +12,4 @@ I am an Integrated PhD student at the Indian Institute of Science, Bangalore, In
 - **Biophysics**
 - **Condensed Matter Physics**
 
-<button name="button" onclick="http://phannyd.github.io/resources">Resources</button>
-
-</span>
+{% include button.html url="http://phannyd.github.io/resources" %}
