@@ -10,8 +10,8 @@ I am an Integrated PhD student at the Indian Institute of Science, Bangalore, In
 ## Research Interests
 
 - **Biophysics**
-- **Condensed Matter Physics**
 - **Statistical Mechanics**
+- **Condensed Matter Physics**
 
 [Resources](https://phannyd.github.io/resources){: .btn}
 
