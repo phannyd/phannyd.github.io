@@ -13,7 +13,7 @@ canonical: https://minimal-light-theme.yliu.me/
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 link_type: icon #text/icon
-cv_link: {{ site.url }}/assets/files/CV_PhanindraDewan.pdf
+cv_link: https://phannyd.github.io/assets/files/CV_PhanindraDewan.pdf
 github_link: https://github.com/phannyd
 linkedin: https://www.linkedin.com/in/phanindra-dewan-167485202/
 twitter: https://twitter.com/dewan_phanindra
