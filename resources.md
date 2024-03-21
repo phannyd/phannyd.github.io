@@ -25,7 +25,7 @@ filename: resources.md
 
 </div>
 </div>
-
+</div>
 <br>
 
 <h2 id="publications" style="margin: 2px 0px -15px;">Journal Club</h2>
