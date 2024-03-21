@@ -23,3 +23,7 @@ filename: resources.md
    <div class="title"><a href="{{ site.url }}/assets/files/CMP_Project_Lect_09.pdf">Lecture 9: Some Analytical Calculations</a></div>
 </div>
 
+<h2 id="journal club" style="margin: 2px 0px -15px;">Journal Club</h2>
+<div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+<div class="title"><a href="{{ site.url }}/assets/files/CMP_Project_Lect_01.pdf">Lecture 1: Introduction to Tight-Binding and Second Quantization of Electrons</a></div>
+
