@@ -23,7 +23,11 @@ filename: resources.md
    <div class="title"><a href="{{ site.url }}/assets/files/CMP_Project_Lect_09.pdf">Lecture 9: Some Analytical Calculations</a></div>
 </div>
 
+<br>
+
 <h2 id="journal club" style="margin: 2px 0px -15px;">Journal Club</h2>
+<div class="publications">
+<!--<ol class="bibliography">-->
 <div class="pub-row">
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
 <div class="title"><a href="{{ site.url }}/assets/files/How_running_topological_drunkards_stay_away_in_nematics.pdf">How running topological drunkards stay away in nematics</a></div>
