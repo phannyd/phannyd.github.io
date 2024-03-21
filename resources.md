@@ -23,6 +23,9 @@ filename: resources.md
    <div class="title"><a href="{{ site.url }}/assets/files/CMP_Project_Lect_09.pdf">Lecture 9: Some Analytical Calculations</a></div>
 </div>
 
+</div>
+</div>
+
 <br>
 
 <h2 id="publications" style="margin: 2px 0px -15px;">Journal Club</h2>
