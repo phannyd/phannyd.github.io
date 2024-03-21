@@ -9,10 +9,10 @@ filename: resources.md
 <!--<ol class="bibliography">-->
 
 
-<div class="pub-row">
-
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
    <h2 id="publications" style="margin: 2px 0px -15px;">Summer Project on Condensed Matter Physics (taught by Prof. Diptiman Sen)</h2>
+   <div class="pub-row">
+   <br>
    <div class="title"><a href="{{ site.url }}/assets/files/CMP_Project_Lect_01.pdf">Lecture 1: Introduction to Tight-Binding and Second Quantization of Electrons</a></div>
    <div class="title"><a href="{{ site.url }}/assets/files/CMP_Project_Lect_02.pdf">Lecture 2: Solution to Tight-Binding Hamiltonian</a></div>
    <div class="title"><a href="{{ site.url }}/assets/files/CMP_Project_Lect_03.pdf">Lecture 3: Introduction to Su-Schrieffer-Heeger Model</a></div>
@@ -35,5 +35,7 @@ filename: resources.md
 <div class="pub-row">
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
    <h2 id="publications" style="margin: 2px 0px -15px;">Journal Club</h2>
+   <div class="pub-row">
+   <br>
 <div class="title"><a href="{{ site.url }}/assets/files/How_running_topological_drunkards_stay_away_in_nematics.pdf">How running topological drunkards stay away in nematics</a></div>
 
