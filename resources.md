@@ -25,7 +25,7 @@ filename: resources.md
 
 <br>
 
-<h2 id="journal club" style="margin: 2px 0px -15px;">Journal Club</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Journal Club</h2>
 <div class="publications">
 <!--<ol class="bibliography">-->
 <div class="pub-row">
