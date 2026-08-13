@@ -1,56 +1,49 @@
----
-layout: homepage
----
+# Basic Information 
+title: Phanindra Dewan
+position: Integrated Ph.D. Student
+affiliation: Indian Institute of Science
+email: phanindrad@iisc.ac.in
 
-<span style="font-family:Geneva;color:green;font-weight:700;font-size:20px">
-## About Me
+# Search Engine Optimization (SEO)
+# The following information is used to improve the website traffic from search engines, e.g., Google.
+keywords: Indian Institute of Science, Integrated PhD, Physics, Biophysics
+description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+canonical: https://minimal-light-theme.yliu.me/
 
-I am an Integrated PhD student at the Indian Institute of Science, Bangalore, India.
+# Links 
+# If you don't need one of them, you may delete the corresponding line.
+link_type: icon #text/icon
+cv_link: https://phannyd.github.io/assets/files/CV_PhanindraDewan.pdf
+github_link: https://github.com/phannyd
+linkedin: https://www.linkedin.com/in/phanindra-dewan-167485202/
+twitter: https://twitter.com/dewan_phanindra
+google_scholar: https://scholar.google.com/citations?user=L8LTrasAAAAJ&hl=en
 
-## Research Interests
+# Images (e.g., your profile picture and your website's favicon) 
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+avatar: ./assets/img/avatar.png
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
 
-- **Biophysics**
-- **Statistical Mechanics**
-- **Soft Matter Physics**
-- **Active Matter**
+# Footnote
+# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
+enable_footnote: false
 
-## Publications
+# Google Analytics ID
+# Please remove this if you don't use Google Analytics
+google_analytics: UA-111540567-4
 
-<div class="publications">
-  <ol class="bibliography">
-    <li>
-      <div class="title">Molecular communication in one-dimensional channels with active transport and crowding</div>
-      <div class="author"><strong>Phanindra Dewan</strong> and Sumantra Sarkar</div>
-      <div class="periodical"><em>Phys. Rev. E</em> 113 (5 May 2026), p. 054105</div>
-      <div class="links">
-        <a class="btn" href="https://link.aps.org/doi/10.1103/mzhn-fc29" target="_blank">URL</a>
-      </div>
-    </li>
-    <li>
-      <div class="title">Symmetry-Protected Phases in a 1D Active Solid with Mechanochemical Feedback</div>
-      <div class="author">Soumyadeep Mondal, <strong>Phanindra Dewan</strong>, Lakshman Santhosh Kumar, and Sumantra Sarkar</div>
-      <div class="periodical"><em>Phys. Rev. Lett.</em> 137 (7 Aug. 2026), p. 078401</div>
-      <div class="links">
-        <a class="btn" href="https://link.aps.org/doi/10.1103/p1bw-v87g" target="_blank">URL</a>
-      </div>
-    </li>
-    <li>
-      <div class="title">Heterotypic interfacial tension between oncogenic and wild-type populations forms the mechanical basis of tissue-specific oncogenesis in epithelia</div>
-      <div class="author">Amrapali Datta, <strong>Phanindra Dewan</strong>, Aswin Anto Puthoor, Tanya Chhabra, Tanishq Tejaswi, Sindhu Muthukrishnan, Akshar Rao, Sumantra Sarkar, and Medhavi Vishwakarma</div>
-      <div class="periodical"><em>eLife</em> 14 (Aug. 2026)</div>
-      <div class="links">
-        <a class="btn" href="http://dx.doi.org/10.7554/eLife.106893.4" target="_blank">URL</a>
-      </div>
-    </li>
-    <li>
-      <div class="title">Glassy dynamics in active epithelia emerge from an interplay of mechanochemical feedback and crowding</div>
-      <div class="author">Sindhu Muthukrishnan, <strong>Phanindra Dewan</strong>, Tanishq Tejaswi, Michelle B. Sebastian, Tanya Chhabra, Soumyadeep Mondal, Soumitra Kolya, Sumantra Sarkar, and Medhavi Vishwakarma</div>
-      <div class="periodical"><em>Nature Communications</em> 17.1 (2026)</div>
-      <div class="links">
-        <a class="btn" href="http://dx.doi.org/10.1038/s41467-026-74163-0" target="_blank">URL</a>
-      </div>
-    </li>
-  </ol>
-</div>
+# Use this project as a remote theme for GitHub Pages
+# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
+remote_theme: yaoyao-liu/minimal-light
 
-## [Resources](https://phannyd.github.io/resources){: .btn}
+# The following files will be removed from the generated website.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - README_zh_Hans.md
+  - README_zh_Hant.md
+  - README_de.md
+  - LICENSE
+  - minimal-light.gemspec
