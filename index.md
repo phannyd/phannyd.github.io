@@ -2,19 +2,21 @@
 layout: homepage
 ---
 
-<span style="font-family:Geneva;color:green;font-weight:700;font-size:20px">
-## About Me
+## About Me {#about}
 
 I am an Integrated PhD student at the Indian Institute of Science, Bangalore, India.
 
-## Research Interests
+<hr class="section-divider" />
+
+## Research Interests {#research}
 
 - **Biophysics**
 - **Statistical Mechanics**
-- **Soft Matter**
-- **Active Matter**
+- **Condensed Matter Physics**
 
-## Publications
+<hr class="section-divider" />
+
+## Publications {#publications}
 
 <div class="publications">
   <ol class="bibliography">
@@ -53,4 +55,42 @@ I am an Integrated PhD student at the Indian Institute of Science, Bangalore, In
   </ol>
 </div>
 
-## [Resources](https://phannyd.github.io/resources){: .btn}
+<hr class="section-divider" />
+
+## [Resources](https://phannyd.github.io/resources){: .btn} {#resources}
+
+<hr class="section-divider" />
+
+## In the news {#news}
+
+<div class="publications">
+  <ol class="bibliography">
+    <li style="margin-bottom: 1.5rem;">
+      <a href="https://www.iisc.ac.in/events/unravelling-the-glass-like-nature-of-epithelial-tissues/" target="_blank">
+        <img class="teaser" src="./assets/img/glass_epithelial_cells.png" alt="Unravelling the glass-like nature of epithelial tissues" />
+      </a>
+      <div class="title" style="margin-top: 8px;">Unravelling the glass-like nature of epithelial tissues</div>
+      <div class="author">Kritika Gaur</div>
+      <div class="periodical"><em>IISc News</em> (July 2026)</div>
+      <div class="links">
+        <a class="btn" href="https://www.iisc.ac.in/events/unravelling-the-glass-like-nature-of-epithelial-tissues/" target="_blank">URL</a>
+      </div>
+    </li>
+    <li style="margin-bottom: 1.5rem;">
+      <a href="https://www.asianscientist.com/2025/10/health/how-lung-and-breast-cells-fight-cancer-differently/" target="_blank">
+        <img class="teaser" src="./assets/img/lung_breast_cancer.jpg" alt="How Lung and Breast Cells Fight Cancer Differently" />
+      </a>
+      <div class="title" style="margin-top: 8px;">How Lung and Breast Cells Fight Cancer Differently</div>
+      <div class="author">Debdutta Paul</div>
+      <div class="periodical"><em>Asian Scientist Magazine</em> (October 2025)</div>
+      <div class="links">
+        <a class="btn" href="https://www.asianscientist.com/2025/10/health/how-lung-and-breast-cells-fight-cancer-differently/" target="_blank">URL</a>
+      </div>
+    </li>
+  </ol>
+</div>
+
+<hr class="section-divider" />
+
+
+
