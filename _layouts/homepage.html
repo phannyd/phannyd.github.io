@@ -14,6 +14,23 @@
     <link rel="canonical" href="{{ site.canonical }}"/>
     {% endif %}
 
+    <!-- Open Graph / Facebook / LinkedIn / WhatsApp -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{ site.canonical | default: site.url }}" />
+    <meta property="og:title" content="{{ site.title }} | {{ site.affiliation }}" />
+    <meta property="og:description" content="{{ site.description }}" />
+    <meta property="og:image" content="{{ site.canonical | default: site.url }}assets/img/glass_epithelial_cells.png" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:url" content="{{ site.canonical | default: site.url }}" />
+    <meta name="twitter:title" content="{{ site.title }} | {{ site.affiliation }}" />
+    <meta name="twitter:description" content="{{ site.description }}" />
+    <meta name="twitter:image" content="{{ site.canonical | default: site.url }}assets/img/glass_epithelial_cells.png" />
+    {% if site.twitter %}
+    <meta name="twitter:site" content="@dewan_phanindra" />
+    {% endif %}
+
     <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.favicon_dark }}" type="image/png" />
     <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon }}" type="image/png" />
     <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
@@ -85,6 +102,14 @@
       </header>
       <section>
 
+      <nav class="nav-pills">
+        <a href="#about">About</a>
+        <a href="#research">Research</a>
+        <a href="#publications">Publications</a>
+        <a href="#resources">Resources</a>
+        <a href="#news">News</a>
+      </nav>
+
       {{ content }}
 
       <br>
@@ -95,7 +120,14 @@
 
       </section>
       <footer>
-        
+        <div class="site-footer">
+          <div class="footer-content">
+            <span class="copyright">&copy; 2026 <strong>Phanindra Dewan</strong></span>
+            <a href="#about" class="back-to-top" title="Back to top">
+              Back to top <i class="fas fa-arrow-up"></i>
+            </a>
+          </div>
+        </div>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
