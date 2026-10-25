@@ -73,6 +73,12 @@
         </a>  
         {% endif %}
 
+        {% if site.orcid %}
+        <a style="margin: 0 5px 0 0" href="{{ site.orcid }}">
+          <i class="ai ai-orcid" style="font-size:1.2rem"></i>
+        </a>
+        {% endif %}
+
         {% if site.cv_link %}
         <a style="margin: 0 5px 0 0" href="{{ site.cv_link }}">
           <i class="ai ai-cv" style="font-size:1.3rem;"></i>
@@ -103,11 +109,11 @@
       <section>
 
       <nav class="nav-pills">
-        <a href="#about">About</a>
-        <a href="#research">Research</a>
-        <a href="#publications">Publications</a>
-        <a href="#resources">Resources</a>
-        <a href="#news">News</a>
+        <a href="{{ "/" | relative_url }}#about">About</a>
+        <a href="{{ "/" | relative_url }}#research">Research</a>
+        <a href="{{ "/" | relative_url }}#publications">Publications</a>
+        <a href="{{ "/" | relative_url }}#resources">Resources</a>
+        <a href="{{ "/" | relative_url }}#news">News</a>
       </nav>
 
       {{ content }}
@@ -122,8 +128,8 @@
       <footer>
         <div class="site-footer">
           <div class="footer-content">
-            <span class="copyright">&copy; 2026 <strong>Phanindra Dewan</strong></span>
-            <a href="#about" class="back-to-top" title="Back to top">
+            <span class="copyright">&copy; {{ site.time | date: "%Y" }} <strong>{{ site.title }}</strong></span>
+            <a href="#" class="back-to-top" title="Back to top">
               Back to top <i class="fas fa-arrow-up"></i>
             </a>
           </div>
